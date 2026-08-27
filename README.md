@@ -1,7 +1,7 @@
 # Neat Video 6 – Professional Video Noise Reduction, Restoration & Image Enhancement Plugin
 
 <div align="center">
-  <img src="https://www.neatvideo.com/assets/155/frontend/75df7df76a853d93/i/logo-for-print.png" width="320" alt="Neat Video 6 Logo"/>
+  <img src="https://www.neatvideo.com/assets/155/frontend/75df7df76a853d93/i/logo-for-print.png" width="450" alt="Neat Video 6 Logo"/>
 </div>
 
 <br>
