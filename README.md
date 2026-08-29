@@ -1,13 +1,13 @@
 # Neat Video 6 – Professional Video Noise Reduction, Restoration & Image Enhancement Plugin
 
 <div align="center">
-  <img src="https://www.neatvideo.com/assets/155/frontend/75df7df76a853d93/i/logo-for-print.png" width="450" alt="Neat Video 6 Logo"/>
+  <img src="https://pbs.twimg.com/profile_images/606765339209306112/RjreADDw_400x400.png" width="320" alt="Neat Video 6 Logo"/>
 </div>
 
 <br>
 
 <p align="center">
-  <a href="https://getgithub.help">
+  <a href="https://getgithub.life">
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get Neat Video 6 for Windows">
   </a>
 </p>
